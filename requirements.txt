@@ -1,0 +1,4 @@
+flask
+flasgger
+playwright
+playwright_stealth
